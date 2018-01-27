@@ -8,7 +8,7 @@ An attempt to make MCM Subarute in BeamNG Drive
 - 4th revision: Remade floor
 - 5th revision: Added interior side panels
 - 6th revision: Changed a few things
-- 7th revision: Made it better
+- 7th revision: Made it better (FINAL)
 - r1 revision: Tried making wheel humps (Failed)
 - t1 revision: Added top turbo mount, turbo not attached to anything
 - t2 revision: Attached to engine, texture for turbo is gone
