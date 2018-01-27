@@ -1,6 +1,8 @@
 # (WIP) Subarute-BeamNG
 An attempt to make MCM Subarute in BeamNG Drive
 
+![Image of Subarute](https://rybo713.github.com/Subarute-BeamNG/images/r7.png)
+
 ## Still needs alot of work
 - 1st revision: Textures on doors and trunk not showing, plenty of holes  
 - 2nd revision: Completely reworked, but floor is gone
@@ -10,7 +12,10 @@ An attempt to make MCM Subarute in BeamNG Drive
 - 6th revision: Changed a few things
 - 7th revision: Made it better
 - r1 revision: Tried making wheel humps (Failed)
-- t1 revision: Added top turbo mount
+- t1 revision: Added top turbo mount, turbo not attached to anything
+- t2 revision: Attached to engine, texture for turbo is gone
+- t3 revision: Tried fixing texture (Failed)
+- t4 revision: Reworked texture for turbo (Failed) and placed in a different location
 
 # Credits
 Ryan Wong
