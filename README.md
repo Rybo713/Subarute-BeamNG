@@ -16,4 +16,8 @@ An attempt to make MCM Subarute in BeamNG Drive
 - t4 revision: Reworked texture for turbo (Failed) and placed in a different location
 
 # Credits
-Ryan Wong
+By: Ryan Wong (Subarute) and Gregory Ocol (Drop/DropUte)
+
+Everything is open source. Credit @Rybo713 and @CanadianGreg
+
+No re-uploads.
